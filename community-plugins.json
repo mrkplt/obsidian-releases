@@ -17253,5 +17253,12 @@
     "author": "d7sd6u",
     "description": "Add file's ftags as chips at the top of the markdown view.",
     "repo": "d7sd6u/obsidian-viewer-ftags"
+},
+{
+  "id": "random-tables",
+  "name": "Random Tables",
+  "author": "Mark Platt",
+  "description": "Transform markdown lists into random generators run from the command palette. Perfect for tabletop gaming, creative writing, and brainstorming sessions.",
+  "repo": "mrkplt/obsidian-random-tables"
 }
 ]
